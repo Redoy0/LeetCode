@@ -5,8 +5,6 @@ class Solution:
         for i in range(len(nums)):
             if nums[i]>0: break
             elif i>0 and nums[i]==nums[i-1]: continue
-            
-            
             lo=i+1
             hi=len(nums)-1
             while lo<hi:
