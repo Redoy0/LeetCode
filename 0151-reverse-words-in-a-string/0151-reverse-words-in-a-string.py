@@ -3,6 +3,3 @@ class Solution:
         s=s.split()
         return " ".join(s[::-1])
 
-
-
-            #"a good   example"
