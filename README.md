@@ -31,3 +31,19 @@ To run any solution locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Redoy0/LeetCode.git
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Redoy0/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Redoy0/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Redoy0/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+<!---LeetCode Topics End-->
